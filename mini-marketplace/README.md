@@ -1,16 +1,16 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📝 Topshiriq hisoboti
+Ism: Alem
+Vazifa qancha vaqt oldi:
+Taxminan 3-4 soat.
+Qiyin bo‘lgan joylar:
+Eng qiyin qismi Vanilla JS va React o‘rtasidagi bog‘liqlikni to‘g‘ri yo‘lga qo‘yish bo‘ldi.
+Muammo: "Add to cart" tugmasi oddiy JS da yaratilgani uchun React state-ni to‘g‘ridan-to‘g‘ri o‘zgartira olmasdi.
+Yechim: CustomEvent va window.dispatchEvent yordamida global hodisa yaratdim va React komponentida window.addEventListener orqali ushbu hodisani tinglab, savatni yangiladim.
+📸 Interfeys skrinshotlari
+Desktop ko'rinishi
+![alt text](./assets/desktop.png)
+Mobil ko'rinishi
+![alt text](./assets/mobile1.png)
+![alt text](./assets/mobile2.png)
+🔗 Demo
+https://mini-market-kappa.vercel.app/
