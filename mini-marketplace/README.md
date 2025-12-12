@@ -12,5 +12,5 @@ Desktop ko'rinishi
 Mobil ko'rinishi
 ![alt text](./assets/mobile1.png)
 ![alt text](./assets/mobile2.png)
-🔗 Demo
+🔗 Demo-versiya
 https://mini-market-kappa.vercel.app/
