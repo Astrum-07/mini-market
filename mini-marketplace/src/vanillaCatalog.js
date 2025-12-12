@@ -1,4 +1,4 @@
-// src/vanillaCatalog.js
+
 
 export async function initCatalog() {
   const grid = document.getElementById('products-grid');
